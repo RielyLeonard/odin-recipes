@@ -1,5 +1,7 @@
 Odin recipes project 
 
+* I only uploaded a pizza recipe due to time 
+
 Learning objectives:
 -   Practice git hub commits
 -   Solidify my knowledge in HTML
